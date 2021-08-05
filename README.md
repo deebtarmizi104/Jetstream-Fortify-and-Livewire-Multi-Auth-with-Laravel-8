@@ -1,7 +1,8 @@
 # Jetstream Fortify and Livewire Multi Auth with Laravel 8.x
 
 ## Covering:
-
+- Basic authentication setup
+- Admin Login Panel and Data Seedings
 
 ## Make use of:
 - LARAVEL 8.x
