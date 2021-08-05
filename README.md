@@ -22,6 +22,7 @@
 * livewire installation - php artisan jetstream:install livewire
 * nodejs installation - npm install && npm run dev
 * enabling storage - php artisan storage:link
+* generating new factory - php artisan make:factory PostFactory
 * install default authentication - php artisan ui vue --auth
 * create Model - php artisan make:model model_name -m
 * create seeder - php artisan make:seed seed_name
