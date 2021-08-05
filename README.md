@@ -3,6 +3,7 @@
 ## Covering:
 - Basic authentication setup
 - Admin Login Panel and Data Seedings
+- Guards for Admin
 
 ## Make use of:
 - LARAVEL 8.x
