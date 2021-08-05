@@ -18,6 +18,7 @@
 * create laravel project - composer create-project --prefer-dist laravel/laravel projectname
 * update composer - composer require laravel/ui "^3.0" --dev
 * create jetstream routing - composer require laravel/jetstream
+* livewire installation - php artisan jetstream:install livewire
 * install default authentication - php artisan ui vue --auth
 * create Model - php artisan make:model model_name -m
 * create seeder - php artisan make:seed seed_name
