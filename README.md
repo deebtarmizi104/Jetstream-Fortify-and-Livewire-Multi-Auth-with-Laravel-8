@@ -22,6 +22,7 @@
 * create jetstream routing - composer require laravel/jetstream
 * livewire installation - php artisan jetstream:install livewire
 * nodejs installation - npm install && npm run dev
+* update npm - npm update vue-loader
 * enabling storage - php artisan storage:link
 * generating new factory - php artisan make:factory PostFactory
 * install default authentication - php artisan ui vue --auth
